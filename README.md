@@ -1,7 +1,7 @@
 # Numpy-random
 
 
-![alt text](![alt text](https://cdn-images-1.medium.com/max/2100/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg "Iris Pic") "numpy")
+![alt text]("https://miro.medium.com/max/3000/1*v-bN7I2agChvO1khEr4WUA.png "numpy")
 The purpose of this assaignment is to outline and explore the use of the numpy random package in 
 data analytics.
 
