@@ -1,7 +1,7 @@
 # Numpy-random
 
 
-!["numpy"](/images/numpya.PNGstyle=centerme)
+![alt text](/images/numpya.PNG )
 
 
 
