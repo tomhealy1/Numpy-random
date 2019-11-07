@@ -2,6 +2,10 @@
 
 
 ![alt text](/images/numpya.PNG "numpy")
+
+
+
+
 The purpose of this assaignment is to outline and explore the use of the numpy random package in 
 data analytics.
 
