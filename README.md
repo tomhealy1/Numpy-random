@@ -12,16 +12,22 @@
 The purpose of this assignment is to outline and explore the use of the numpy random package in 
 data analytics.
 
-This assignment will use a number of different tools to carry out the tasks in the assignment. The tool we will use are:
+This assignment will use a number of different tools to carry out the tasks in the assignment. The tools we will use are:
 
 * Python - packages we will uses are:
+
 ..* Pandas - Data Manipulation
+
 ..* Numpy - numerical/computational operations
+
 ..* Matplotlib - Data Visualisation
+
 ..* Scipy (scipy.stats) - An additional numerical package (some extra distributions exist in Scipy)
+
 ..* Seaborn - An additional data visuaisation package
 
-Instructions:
+## Instructions:
+
 1. If you have not already done so, please download the [Anaconda Distribution](https://www.anaconda.com/distribution) for Python 3.7.
 
 2. Once you install Anaconda, the packages listed above should be installed also.
