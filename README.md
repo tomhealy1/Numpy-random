@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG">
+<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG" width="500"/>
 </p>
 
 
@@ -8,7 +8,7 @@
 ## Thomas Healy G00376351
 
 
-<p align="centre">
+<p align="center">
 <img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG" alt="are you checking my markdown is working :-) " width="500" />
 </p>
 
