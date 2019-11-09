@@ -4,6 +4,7 @@
 
 
 # GMIT HDip Data Analytics 2019
+
 ## Programming for Data Analysis -  Semester 2 - Assignment 1
 ## Thomas Healy G00376351
 
@@ -14,9 +15,9 @@
 
 
 
-## Asssignment outline
+## Asssignment outline:
 The purpose of this assignment is to outline and explore the use of the numpy random package in 
-data analytics.
+data analytics. The jupyter notebook contains the tasks outlines in the [assignment](https://github.com/tomhealy1/Numpy-random/blob/master/ProgDA_Assignment%20(3).pdf). The instructions for running the notebook are below.
 
 This assignment will use a number of different tools to carry out the tasks in the assignment. The tools we will use are:
 
