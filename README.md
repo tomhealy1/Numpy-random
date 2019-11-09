@@ -1,10 +1,10 @@
-![GMIT](/images/gmit.PNG)
+![GMIT](https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG)
 # GMIT HDip Data Analytics 2019
 ## Programming for Data Analysis -  Semester 2 - Assignment 1
 ## Thomas Healy G00376351
 
 
-![are you checking my markdown is working??](/images/numpya.PNG)
+![are you checking my markdown is working??](https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG)
 
 
 
@@ -14,17 +14,17 @@ data analytics.
 
 This assignment will use a number of different tools to carry out the tasks in the assignment. The tools we will use are:
 
-* Python - packages we will uses are:
+Python - see instructions below on how to install*
 
-Pandas - Data Manipulation
+* Pandas - Data Manipulation
 
-⋅⋅* Numpy - numerical/computational operations
+* Numpy - numerical/computational operations
 
-⋅⋅* Matplotlib - Data Visualisation
+* Matplotlib - Data Visualisation
 
-⋅⋅* Scipy (scipy.stats) - An additional numerical package (some extra distributions exist in Scipy)
+* Scipy (scipy.stats) - An additional numerical package (some extra distributions exist in Scipy)
 
-⋅⋅* Seaborn - An additional data visuaisation package
+* Seaborn - An additional data visuaisation package
 
 ## Instructions:
 
