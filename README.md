@@ -14,13 +14,13 @@
 
 
 
-
+## Asssignment outline
 The purpose of this assignment is to outline and explore the use of the numpy random package in 
 data analytics.
 
 This assignment will use a number of different tools to carry out the tasks in the assignment. The tools we will use are:
 
-Python - see instructions below on how to install*
+Python - see instructions below on how to install:
 
 * Pandas - Data Manipulation
 
@@ -40,21 +40,14 @@ Python - see instructions below on how to install*
 
 3. Go to https://github.com/tomhealy1/Numpy-random and download the repo
 
-4. Navigate to the folder you saved the repo using your CLI or terminal
+4. Navigate to the folder you saved the repo in using your CLI or terminal
 
-5. Change Directory to the folder: C:\Users\Teamwork\Desktop > ```cd C:\Users\Teamwork\Desktop\numpy```
+5. Change Directory to the folder, for example:
+- C:\Users\Teamwork\Desktop > ```cd C:\Users\Teamwork\Desktop\numpy```
 
-C:\Users\Teamwork\Desktop\numpy
-
-6. You can now run the notebook using ```jupyter notebook```
+6. You can now run the notebook using ```jupyter notebook``` command in the terminal
 
 7. When opened, run all cells.
-
-
-
-
-How to use the notebook
-
 
 
 
