@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG" width="500"/>
+<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG" width="300"/>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG" alt="are you checking my markdown is working :-) " width="500" />
+<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG" alt="are you checking my markdown is working :-)" width="300" />
 </p>
 
 
