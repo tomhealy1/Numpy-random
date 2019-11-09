@@ -16,15 +16,15 @@ This assignment will use a number of different tools to carry out the tasks in t
 
 * Python - packages we will uses are:
 
-.. * Pandas - Data Manipulation
+Pandas - Data Manipulation
 
-.. * Numpy - numerical/computational operations
+⋅⋅* Numpy - numerical/computational operations
 
-.. * Matplotlib - Data Visualisation
+⋅⋅* Matplotlib - Data Visualisation
 
-..* Scipy (scipy.stats) - An additional numerical package (some extra distributions exist in Scipy)
+⋅⋅* Scipy (scipy.stats) - An additional numerical package (some extra distributions exist in Scipy)
 
-..* Seaborn - An additional data visuaisation package
+⋅⋅* Seaborn - An additional data visuaisation package
 
 ## Instructions:
 
