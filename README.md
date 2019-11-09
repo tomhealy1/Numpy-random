@@ -15,7 +15,7 @@
 
 
 
-## Asssignment outline:
+## Assignment outline:
 The purpose of this assignment is to outline and explore the use of the numpy random package in 
 data analytics. The jupyter notebook contains the tasks outlines in the [assignment](https://github.com/tomhealy1/Numpy-random/blob/master/ProgDA_Assignment%20(3).pdf). The instructions for running the notebook are below.
 
@@ -31,7 +31,7 @@ Python - see instructions below on how to install:
 
 * Scipy (scipy.stats) - An additional numerical package (some extra distributions exist in Scipy)
 
-* Seaborn - An additional data visuaisation package
+* Seaborn - An additional data visualisation package
 
 ## Instructions:
 
