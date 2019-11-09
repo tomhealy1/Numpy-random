@@ -8,7 +8,9 @@
 ## Thomas Healy G00376351
 
 
-![alt text](https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG "are you checking my markdown is working :-) ")
+<p align="centre">
+<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG" alt="are you checking my markdown is working :-) " width="200" />
+</p>
 
 
 
