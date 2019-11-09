@@ -9,7 +9,7 @@
 
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG" alt="are you checking my markdown is working :-) " width="200" />
+<img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG" alt="are you checking my markdown is working :-) " width="500" />
 </p>
 
 
