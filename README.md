@@ -1,10 +1,10 @@
-![alt text](/images/gmit.PNG)
+![GMIT](/images/gmit.PNG)
 # GMIT HDip Data Analytics 2019
 ## Programming for Data Analysis -  Semester 2 - Assignment 1
 ## Thomas Healy G00376351
 
 
-![alt text](/images/numpya.PNG)
+![are you checking my markdown is working??](/images/numpya.PNG)
 
 
 
@@ -30,12 +30,9 @@ Instructions:
 
 4. Navigate to the folder you saved the repo using your CLI or terminal
 
-5. Change Directory to the folder:
+5. Change Directory to the folder: C:\Users\Teamwork\Desktop > ```cd C:\Users\Teamwork\Desktop\numpy```
 
-$ C:\Users\Teamwork\Desktop\\n
-```cd C:\Users\Teamwork\Desktop\numpy```
-
-$ C:\Users\Teamwork\Desktop\numpy
+C:\Users\Teamwork\Desktop\numpy
 
 6. You can now run the notebook using ```jupyter notebook```
 
