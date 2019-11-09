@@ -44,11 +44,13 @@ Python - see instructions below on how to install:
 4. Navigate to the folder you saved the repo in using your CLI or terminal
 
 5. Change Directory to the folder, for example:
-- C:\Users\Teamwork\Desktop > ```cd C:\Users\Teamwork\Desktop\numpy```
+-- C:\Users\Teamwork\Desktop > ```cd C:\Users\Teamwork\Desktop\numpy```
 
 6. You can now run the notebook using ```jupyter notebook``` command in the terminal
 
 7. When opened, run all cells.
+
+## References:
 
 
 
