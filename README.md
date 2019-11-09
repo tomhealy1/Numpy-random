@@ -1,4 +1,4 @@
-![GMIT](https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG)
+<p align="centre"><img src="https://github.com/tomhealy1/Numpy-random/blob/master/images/gmit.PNG"></p>
 # GMIT HDip Data Analytics 2019
 ## Programming for Data Analysis -  Semester 2 - Assignment 1
 ## Thomas Healy G00376351
