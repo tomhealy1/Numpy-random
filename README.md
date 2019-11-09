@@ -4,7 +4,7 @@
 ## Thomas Healy G00376351
 
 
-![are you checking my markdown is working??](https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG)
+![alt text](https://github.com/tomhealy1/Numpy-random/blob/master/images/numpya.PNG "are you checking my markdown is working :-) ")
 
 
 
